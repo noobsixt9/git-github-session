@@ -37,9 +37,8 @@ I'm a versatile tech enthusiast with a passion for innovation, cybersecurity, an
 
 ### Future Aspirations
 
-I am excited to leverage my diverse background and enthusiasm for technology to contribute to your team's success. My goal is to bring my innovative mindset, cybersecurity expertise, and digital marketing proficiency to drive impactful results.
+I am excited to leverage my diverse background and enthusiasm for technology to contribute in open source. My goal is to bring my innovative mindset, cybersecurity expertise, and digital marketing proficiency to drive impactful results.
 
----
 
-Feel free to reach out if you have any questions or would like to connect!
+
 

@@ -1,0 +1,35 @@
+/* importing a font from fonts.google.com > embed code > copy import */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body
+{
+    /* if roboto is not loaded sans-serif is loaded */
+    font-family: 'roboto', sans-serif; 
+    /* forcing web browser to apply this rule */
+    font-weight: 300     !important;
+    background: #000;
+}
+body h2 
+{
+    font-weight: 300;
+    /* In margin if there is only one arguement then its for bottm, if there is another arguement then its for right -left */
+    margin: 5px 0px 10px 200px;
+    /* top right bottom left */
+}
+
+body > footer > center 
+{
+    color: #0af;
+    background: #fff;
+}
+
+/* target all elements with id main header and we can not have same id for multiple element */
+#main-header 
+{
+    /* border: 1px solid #fff; */
+    border-bottom: 2px solid #fff;
+    border-color: #0af;
+    color: #fff;
+
+}
